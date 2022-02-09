@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Description the project.
+> A project to practice on linters
 
 
 ## Built With
@@ -22,12 +22,14 @@
 
 
 To get a local copy up and running follow these simple example steps.
+-git clone git@github.com:MICHAELMUNAVU83/hello_microverse.git
+-open with a code editor
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Michael munavu**
 
 
 - GitHub: [@githubhandle](https://github.com/MICHAELMUNAVU83)
@@ -41,12 +43,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
